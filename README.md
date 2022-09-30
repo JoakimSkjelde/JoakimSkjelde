@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoakimSkjelde, fifth year Civil Engineering student, specialising in Water- and Wastewater engineering at the Norwegian University of Science and Technology (NTNU/NUST)
 - 👀 I’m interested in Python programming, especially using it in my field of Water- and wastewater engineering.
-- 🌱 I’m currently learning Machine Learning in Python, as my master thesis the coming year (spring 2023) contains machine learning.
-- 💞️ I’m looking to collaborate on using Python for Hydraulic and Hydrological data and analysis.
+- 🌱 I’m currently doing my Master Thesis on "Machine learning based deterioration modelling of sewer pipes"
+- 💞️ I’m looking to collaborate on using Python for Hydraulic- and Hydrological modelling and data analysis.
 - 📫 How to reach me: Please feel free to reach me on my mail: Joakimskjelde99@gmail.com
 
 <!---
